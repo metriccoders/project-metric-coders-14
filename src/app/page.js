@@ -30,7 +30,7 @@ export default function Home() {
       <div className="grid grid-cols-1 justify-center text-center mt-4 mb-6">
         <div>
           <span className="font-extrabold">
-            Welcome to Metric Coders Finance Joke Generator!
+            Welcome to Metric Coders Joke Generator!
           </span>
         </div>
         <div>
